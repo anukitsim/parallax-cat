@@ -32,4 +32,10 @@ h1{
 				-0.04em -0.04em 0 #000;
 }
 
+@media screen and (max-width: 1000px) {
+  h1 {
+    text-align: end;
+  }
+}
+
 
